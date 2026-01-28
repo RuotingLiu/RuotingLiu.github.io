@@ -56,8 +56,13 @@ B. A. in Management, GPA: 82.37/100 (Chinese version), 2.33/1 (German version), 
 - **2017**, Merit Student (awarded to top 5%), SUIBE 
 
 # 💬 Conference Talks
-- **August 29, 2024**. Multiple pathways to promote adolescents' pro-environmental behavior: A cross-lagged panel network analysis. 2024 Well-being Education and Sciences Conference, Beijing, China.
+**August 29, 2024**. Multiple pathways to promote adolescents' pro-environmental behavior: A cross-lagged panel network analysis. 2024 Well-being Education and Sciences Conference, Beijing, China.
 
 # 💻 Academic Work Experience
-- **2024.05 - 2025.09**, Research Assistant (part-time), Advisor: Prof. Kaiping Peng & Dr. Wei Yan (Postdoctoral scholar, Stanford University), The Department of Psychological and Cognitive Sciences, Tsinghua University, Beijing, China
-- **2023.07 - 2024.05**, Research Assistant (part-time), Advisor: Dr. Xiaomeng Hu, Department of Psychology, Renmin University of China, Beijing, China
+**2024.05 - 2025.09** Research Assistant | part-time
+The Department of Psychological and Cognitive Sciences, Tsinghua University (Beijing, China)
+Advisor: Prof. Kaiping Peng & Dr. Wei Yan (Postdoctoral scholar, Stanford University), 
+
+**2023.07 - 2024.05** Research Assistant | part-time
+Department of Psychology, Renmin University of China, Beijing, China
+Advisor: Dr. Xiaomeng Hu
