@@ -19,7 +19,7 @@ redirect_from:
 
 I am interested in human cooperation, especially in two distinct preferences: parochial and universal cooperation. Combining surveys, behavioral experiments, and analyses of diverse cultural artifacts (e.g., texts, paintings), I investigate how cooperation and cooperation preferences change cross cultures, geographical regions, and historical periods. 
 
-My PhD project investigates the evolution of cooperation and cooperation preferences in Chinese history using evidence from diverse cultural artifacts. Furthermore, my research explores which ecological affordances are associated with these trends, contributing to our understanding of when, where, and why people’s cooperation and preferences vary across historical contexts.(<a href='[https://scholar.google.com/citations?user=DhtAFkwAAAAJ](https://scholar.google.com/citations?user=2iD_qyMAAAAJ&hl=zh-CN)'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My PhD project investigates the evolution of cooperation and cooperation preferences in Chinese history using evidence from diverse cultural artifacts. Furthermore, my research explores which ecological affordances are associated with these trends, contributing to our understanding of when, where, and why people’s cooperation and preferences vary across historical contexts.
 
 # 📖 Educations
 **2025.09 - 2026.01 (now)**, **Département d’études cognitives, École normale supérieure-PSL (ENS-PSL)** (Paris, France)  
@@ -30,7 +30,7 @@ Supervisors: Prof. Nicolas Baumard & Dr. Valentin Thouzeau
 M. S. in Applied Psychology, GPA: 3.78/4  
 Supervisor: Dr. Yan-Mei Li
 
-**2016.09 - 2020.06**, **School of Event and Communication, Shanghai University of International Business and Economics (SUIBE)** (Shanghai, China)  
+**2016.09 - 2020.06**, **School of Event and Communication, Shanghai University of International Business and Economics** (Shanghai, China)  
 B. A. in Management, GPA: 82.37/100 (Chinese version), 2.33/1 (German version), top 15%
 
 # 🔥 News
