@@ -17,14 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am interested in human cooperation, especially in two distinct preferences: parochial and universal cooperation. My PhD project investigates the evolution of cooperation and cooperation preferences in Chinese history using evidence from diverse cultural artifacts. Furthermore, my research explores which ecological affordances are associated with these trends, contributing to our understanding of when, where, and why people’s cooperation and preferences vary across historical contexts.
+I am interested in human cooperation, especially in two distinct preferences: parochial and universal cooperation. My PhD project investigates the evolution of cooperation and cooperation preferences in Chinese history using evidence from diverse cultural artifacts. Furthermore, my research explores which ecological affordances are associated with these trends, contributing to our understanding of when, where, and why people’s cooperation and preferences vary across historical contexts.(<a href='[https://scholar.google.com/citations?user=DhtAFkwAAAAJ](https://scholar.google.com/citations?user=2iD_qyMAAAAJ&hl=zh-CN)'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+# 📖 Educations
+- *2025.09 - 2026.01 (now)*, Département d’études cognitives, École normale supérieure-PSL (ENS-PSL). 
+- *2020.09 - 2023.06*, Institute of Psychology, Chinese Academy of Sciences (IPCAS).
+- *2016.09 - 2020.06*, School of Event and Communication, Shanghai University of International Business and Economics (SUIBE)
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  
+
+# 📝 Working Papers
+- Zhao, S., Sun, Y., *Liu, R.*, Li, X., & Hu, X. (2024). Identification with all humanity reduces the ratio of moral differential circle. Preprint: ChinaXiv. https://chinaxiv.org/abs/202408.00133
+- *Liu, R.*, Zhu, T., Chen, X., & Li, Y. (under review). How regional socio-economic development weakens individual compliance with epidemic prevention norms? An evolutionary psychological perspective.
+- Yan W., *Liu, R.*, Zhang, Y., Zheng, Z., Liu, T., & Hu, X. (in prep.). From connection to action: Nature connectedness shapes climate change mitigation behaviors among Chinese adolescents. 
 
 # 📝 Publications 
 
@@ -35,24 +41,26 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- *Liu, R.#*, Zheng, X.#, Wang, Z., Zhou, M., Weng, J., Li, Y., & Chen, X. (2023). [COVID-19 symptoms and compliance: The mediating role of fundamental social motives](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1093875/full), _Frontiers in Psychology_, Vol.14-2023. https://doi.org/10.3389/fpsyg.2023.1093875 (#co-first author)
+- Zhao, S.#, *Liu, R.#*, & Hu, X. (2024). [Identification with all humanity promotes prosocial psychological processes and behavioral patterns and its underlying mechanisms](https://journal.psych.ac.cn/xlkxjz/EN/article/downloadArticleFile.do?attachType=PDF&id=7242). _Advances in Psychological Science_, _32_(10), 1697-1708. https://doi.org/10.3724/SP.J.1042.2024.01697 (#co-first author). [in Chinese]
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025-2029* ENS Group - China Scholarship Council (CSC) Scholarship, ENS-CSC. 
+- *2021,2022* The Second Prize Scholarship, IPCAS.
+- *2021* Merit Student (awarded to top 15%), IPCAS
+- *2020* The Third Prize Scholarship, SUIBE
+- *2019* Honorable Mention at the 2019 Mathematical Contest In Modeling (awarded to top 16%), COMAP
+- *2019* The First Prize Scholarship (awarded to top 3%), SUIBE
+- *2017* The Second Prize Scholarship (awarded to top 12%), SUIBE
+- *2017* Merit Student (awarded to top 5%), SUIBE 
 
-# 📖 Educations
-- *2025.09 - 2026.01 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2020.09 - 2023.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 💬 Conference Talks
+- *August 29, 2024*. Multiple pathways to promote adolescents' pro-environmental behavior: A cross-lagged panel network analysis. 2024 Well-being Education and Sciences Conference, Beijing, China.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
+# 💻 Academic Work Experience
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.05 - 2025.09*, Research Assistant (part-time), Advisor: Prof. Kaiping Peng & Dr. Wei Yan (Postdoctoral scholar, Stanford University), The Department of Psychological and Cognitive Sciences, Tsinghua University, Beijing, China
+- *2023.07 - 2024.05*, Research Assistant (part-time), Advisor: Dr. Xiaomeng Hu, Department of Psychology, Renmin University of China, Beijing, China
