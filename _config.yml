@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ruoting Liu"
   avatar           : "images/IMG_0505.JPG"
-  bio              : "Lorem ipsum College"
+  bio              : "ENS-PSL"
   location         : "Paris, France"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=2iD_qyMAAAAJ"
   email            : "ruoting.liu@ens.psl.eu"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/Ruoting-Liu-2?ev=hdr_xprf"
+  researchgate     : "https://www.researchgate.net/profile/Ruoting-Liu-2?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/RuotingLiu"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/0000-0002-1253-9711"
+  orcid            : "https://orcid.org/0000-0002-1253-9711"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
