@@ -22,15 +22,15 @@ I am interested in human cooperation, especially in two distinct preferences: pa
 My PhD project investigates the evolution of cooperation and cooperation preferences in Chinese history using evidence from diverse cultural artifacts. Furthermore, my research explores which ecological affordances are associated with these trends, contributing to our understanding of when, where, and why people’s cooperation and preferences vary across historical contexts.(<a href='[https://scholar.google.com/citations?user=DhtAFkwAAAAJ](https://scholar.google.com/citations?user=2iD_qyMAAAAJ&hl=zh-CN)'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 # 📖 Educations
-**2025.09 - 2026.01 (now)**, **Département d’études cognitives, École normale supérieure-PSL (ENS-PSL)** (Paris, France)
-PhD student in Cognitive Sciences
+**2025.09 - 2026.01 (now)**, **Département d’études cognitives, École normale supérieure-PSL (ENS-PSL)** (Paris, France)  
+PhD student in Cognitive Sciences  
 Supervisors: Prof. Nicolas Baumard & Dr. Valentin Thouzeau
 
-**2020.09 - 2023.06**, **Institute of Psychology, Chinese Academy of Sciences (IPCAS)** (Beijing, China)
-M. S. in Applied Psychology, GPA: 3.78/4
+**2020.09 - 2023.06**, **Institute of Psychology, Chinese Academy of Sciences (IPCAS)** (Beijing, China)  
+M. S. in Applied Psychology, GPA: 3.78/4  
 Supervisor: Dr. Yan-Mei Li
 
-**2016.09 - 2020.06**, **School of Event and Communication, Shanghai University of International Business and Economics (SUIBE)** (Shanghai, China)
+**2016.09 - 2020.06**, **School of Event and Communication, Shanghai University of International Business and Economics (SUIBE)** (Shanghai, China)  
 B. A. in Management, GPA: 82.37/100 (Chinese version), 2.33/1 (German version), top 15%
 
 # 🔥 News
@@ -59,10 +59,10 @@ B. A. in Management, GPA: 82.37/100 (Chinese version), 2.33/1 (German version), 
 **August 29, 2024**. Multiple pathways to promote adolescents' pro-environmental behavior: A cross-lagged panel network analysis. 2024 Well-being Education and Sciences Conference, Beijing, China.
 
 # 💻 Academic Work Experience
-**2024.05 - 2025.09** Research Assistant | part-time
-The Department of Psychological and Cognitive Sciences, Tsinghua University (Beijing, China)
-Advisor: Prof. Kaiping Peng & Dr. Wei Yan (Postdoctoral scholar, Stanford University), 
+**2024.05 - 2025.09** Research Assistant | part-time  
+The Department of Psychological and Cognitive Sciences, Tsinghua University (Beijing, China)  
+Advisor: Prof. Kaiping Peng & Dr. Wei Yan (Postdoctoral scholar, Stanford University)
 
-**2023.07 - 2024.05** Research Assistant | part-time
-Department of Psychology, Renmin University of China, Beijing, China
+**2023.07 - 2024.05** Research Assistant | part-time  
+Department of Psychology, Renmin University of China, Beijing, China  
 Advisor: Dr. Xiaomeng Hu
