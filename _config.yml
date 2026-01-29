@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Ruoting Liu"
+title                    : "Ruoting Liu (刘若婷)"
 description              : "Cooperation, Evolutionary Psychology, Historical Psychology. "
 repository               : "ruotingliu.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ruoting Liu"
+  name             : "Ruoting Liu (刘若婷)"
   avatar           : "images/IMG_0505.JPG"
   bio              : "ENS-PSL"
   location         : "Paris, France"
