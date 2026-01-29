@@ -6,17 +6,25 @@ main:
   - title: "News"
     url: "/#-news"
 
+  - title: "Educations"
+    url: "/#-educations"
+
+  - title: "Academic Work Experience"
+    url: "/#-academic-wor-experience"
+
+  - title: "Working Papers"
+    url: "/#-working-papers"
+  
   - title: "Publications"
     url: "/#-publications"
+
+  - title: "Conference Talks"
+    url: "/#-conference-talks"
+
+  - title: "Community Service"
+    url: "/#-community-service"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
-  - title: "Internships"
-    url: "/#-internships"
