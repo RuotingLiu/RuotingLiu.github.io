@@ -23,7 +23,9 @@ I am a PhD student in the [Evolution and Social Cognition](https://esc.dec.ens.f
 
 My research focuses on human cooperation, with particular attention to two distinct preferences: parochial and universal cooperation. Combining multiple methods, including surveys, behavioral experiments, and textual analyses, I investigate how cooperation and cooperation preferences vary cross cultures, geographical regions, and historical periods. 
 
-My PhD project investigates the evolution of cooperation and cooperation preferences in Chinese history using evidence from diverse cultural artifacts. Furthermore, my research explores which ecological affordances are associated with these trends, contributing to our understanding of when, where, and why people’s cooperation and preferences vary across historical contexts.
+My PhD project investigates the evolution of cooperation and cooperation preferences in Chinese history using evidence from diverse cultural artifacts. Furthermore, my research explores which ecological affordances are associated with these trends, contributing to our understanding of when, where, and why people’s cooperation and preferences vary across historical contexts.  
+
+Please feel free to [reach out](ruoting.liu@ens.psl.eu) if you have any questions or collaboration ideas. 
 
 # 🔥 News
 - **2026.04 - 2026.06**: &nbsp;🎉🎉 XXX
