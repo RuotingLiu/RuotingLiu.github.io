@@ -25,12 +25,12 @@ My research focuses on human cooperation, with particular attention to two disti
 
 My PhD project investigates the evolution of cooperation and cooperation preferences in Chinese history using evidence from diverse cultural artifacts. Furthermore, my research explores which ecological affordances are associated with these trends, contributing to our understanding of when, where, and why people’s cooperation and preferences vary across historical contexts.  
 
-Please feel free to [reach out](ruoting.liu@ens.psl.eu) if you have any questions or collaboration ideas. 
+Please feel free to reach out if you have any questions or collaboration ideas. 
 
 # 🔥 News
 - **2026.04 - 2026.06**: &nbsp;🎉🎉 XXX
 
-# 📖 Educations
+# 📖 Education
 **2025.09 - Present**, **Département d’études cognitives, École normale supérieure-PSL (ENS-PSL)** | Paris, France  
 - PhD student in Cognitive Sciences
 - Supervisors: [Prof. Nicolas Baumard](https://nicolasbaumards.org/) & [Dr. Valentin Thouzeau](https://scholar.google.com/citations?user=4eLfjyoAAAAJ&hl=en)  
