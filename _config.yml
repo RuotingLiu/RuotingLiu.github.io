@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ruoting Liu     (刘若婷)"
-description              : "Evolutionary Psychology, Historical Psychology, Cooperation. "
+description              : "Evolutionary Psychology Historical Psychology Cooperation. "
 repository               : "ruotingliu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ruoting Liu      (刘若婷)"
   avatar           : "images/IMG_0505.JPG"
-  bio              : "ENS-PSL"
+  bio              : ""
   location         : "Paris, France"
   employer         :
   pubmed           : 
