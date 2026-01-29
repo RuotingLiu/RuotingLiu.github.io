@@ -48,10 +48,10 @@ Department of Psychology, Renmin University of China, Beijing, China
 Advisor: Dr. Xiaomeng Hu 
 
 # Service
-**Reviewer**
+**Reviewer**  
 **2025.07 - 2026.01**, The belief in a decline in cooperation in the USA and China  
 
-**Academic community**
+**Academic community**  
 **2023.10 - Present**, Chinese Open Science Network | Online | Member of the Open-Transfer  
 - Refined the prompt to build an automated translation tool based on ChatGPT.
 - Translated and proofread two academic articles using the Open-Transfer Automatic Translation Workflow. https://mp.weixin.qq.com/s/tLkJDmb6Oh_m8DJySr1Gdg; https://mp.weixin.qq.com/s/GFKnh1H3GBNLUTBjMlmmKA
