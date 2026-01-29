@@ -38,7 +38,7 @@ My PhD project investigates the evolution of cooperation and cooperation prefere
 **2016.09 - 2020.06**, **School of Event and Communication, Shanghai University of International Business and Economics (上海对外经贸大学)** | Shanghai, China  
 - B. A. in Management, GPA: 82.37/100 (Chinese version), 2.33/1 (German version)
 
-# 💻 Academic Work Experience
+# 💻 Work Experience
 **2024.05 - 2025.09**, The Department of Psychological and Cognitive Sciences, Tsinghua University | Research Assistant | part-time  
 - Advisor: Prof. Kaiping Peng & Dr. Wei Yan (Postdoctoral scholar, Stanford University)  
 
