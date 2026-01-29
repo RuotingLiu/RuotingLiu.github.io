@@ -33,7 +33,7 @@ Supervisor: Dr. Yan-Mei Li
 
 
 **2016.09 - 2020.06**, **School of Event and Communication, Shanghai University of International Business and Economics** (Shanghai, China)  
-B. A. in Management, GPA: 82.37/100 (Chinese version), 2.33/1 (German version), top 15%
+B. A. in Management, GPA: 82.37/100 (Chinese version), 2.33/1 (German version)
 
 # 🔥 News
 - **2022.02**: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  
