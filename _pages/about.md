@@ -47,11 +47,19 @@ B. A. in Management, GPA: 82.37/100 (Chinese version), 2.33/1 (German version)
 - Department of Psychology, Renmin University of China
 - Advisor: Dr. Xiaomeng Hu  
 
-# Service
-**Co-reviewer**  
-**2025.07 - 2026.01**, The belief in a decline in cooperation in the USA and China  
+# 📝 Working Papers
+- Zhao, S., Sun, Y., **Liu, R.**, Li, X., & Hu, X. (2024). Identification with all humanity reduces the ratio of moral differential circle. Preprint: ChinaXiv. https://chinaxiv.org/abs/202408.00133
+- **Liu, R.**, Zhu, T., Chen, X., & Li, Y. (under review). How regional socio-economic development weakens individual compliance with epidemic prevention norms? An evolutionary psychological perspective.
+- Yan W., **Liu, R.**, Zhang, Y., Zheng, Z., Liu, T., & Hu, X. (in prep.). From connection to action: Nature connectedness shapes climate change mitigation behaviors among Chinese adolescents. 
 
-**Academic community**  
+# 🗂️ Publications 
+- **Liu, R.#**, Zheng, X.#, Wang, Z., Zhou, M., Weng, J., Li, Y., & Chen, X. (2023). COVID-19 symptoms and compliance: The mediating role of fundamental social motives, _Frontiers in Psychology_, Vol.14-2023. https://doi.org/10.3389/fpsyg.2023.1093875 (#co-first author)
+- Zhao, S.#, **Liu, R.#**, & Hu, X. (2024). Identification with all humanity promotes prosocial psychological processes and behavioral patterns and its underlying mechanisms. _Advances in Psychological Science_, _32_(10), 1697-1708. https://doi.org/10.3724/SP.J.1042.2024.01697 (#co-first author). [in Chinese]
+
+# 💬 Conference Talks
+**August 29, 2024**. _Multiple pathways to promote adolescents' pro-environmental behavior: A cross-lagged panel network analysis_. 2024 Well-being Education and Sciences Conference, Beijing, China.
+
+# 🧩 Academic community service 
 **2023.10 - Present**, Chinese Open Science Network | Online | Member of the Open-Transfer  
 - Refined the prompt to build an automated translation tool based on ChatGPT.
 - Translated and proofread two academic articles using the Open-Transfer Automatic Translation Workflow. https://mp.weixin.qq.com/s/tLkJDmb6Oh_m8DJySr1Gdg; https://mp.weixin.qq.com/s/GFKnh1H3GBNLUTBjMlmmKA
@@ -63,17 +71,8 @@ B. A. in Management, GPA: 82.37/100 (Chinese version), 2.33/1 (German version)
 - Compiled and designed the outline of the academic interview, focusing on recent positive and negative experiences and emotional regulations.
 - Summarized the content of interviews and wrote the corresponding report.
 
-# 📝 Working Papers
-- Zhao, S., Sun, Y., **Liu, R.**, Li, X., & Hu, X. (2024). Identification with all humanity reduces the ratio of moral differential circle. Preprint: ChinaXiv. https://chinaxiv.org/abs/202408.00133
-- **Liu, R.**, Zhu, T., Chen, X., & Li, Y. (under review). How regional socio-economic development weakens individual compliance with epidemic prevention norms? An evolutionary psychological perspective.
-- Yan W., **Liu, R.**, Zhang, Y., Zheng, Z., Liu, T., & Hu, X. (in prep.). From connection to action: Nature connectedness shapes climate change mitigation behaviors among Chinese adolescents. 
-
-# 📝 Publications 
-- **Liu, R.#**, Zheng, X.#, Wang, Z., Zhou, M., Weng, J., Li, Y., & Chen, X. (2023). COVID-19 symptoms and compliance: The mediating role of fundamental social motives, _Frontiers in Psychology_, Vol.14-2023. https://doi.org/10.3389/fpsyg.2023.1093875 (#co-first author)
-- Zhao, S.#, **Liu, R.#**, & Hu, X. (2024). Identification with all humanity promotes prosocial psychological processes and behavioral patterns and its underlying mechanisms. _Advances in Psychological Science_, _32_(10), 1697-1708. https://doi.org/10.3724/SP.J.1042.2024.01697 (#co-first author). [in Chinese]
-
-# 💬 Conference Talks
-**August 29, 2024**. _Multiple pathways to promote adolescents' pro-environmental behavior: A cross-lagged panel network analysis_. 2024 Well-being Education and Sciences Conference, Beijing, China.
+# 📑 Co-reviewer  
+- **2025.07 - 2026.01**, The belief in a decline in cooperation in the USA and China  
 
 # 🎖 Honors and Awards
 - **2026**, PSL-BRIDGE (Building Research Initiatives for Doctoral Growth in Europe) program, Erasmus+ SMT grant, ENS-PSL
