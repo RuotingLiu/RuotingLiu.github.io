@@ -64,9 +64,9 @@ Please feel free to reach out if you have any questions or collaboration ideas.
 # 🧩 Service   
 **Journal Reviewer (Articles Reviewed)**  
 - Current Psychology (1)
-- Communication Psychology (1), co-reviewer
+- Communications Psychology (1), co-reviewer
 
-**Academic Committee Membership** 
+**Academic Committee Membership**  
 **Open-Transfer, Chinese Open Science Network**   
 - Refined the prompt to build an automated translation tool based on ChatGPT.
 - Translated and proofread [two academic articles](https://mp.weixin.qq.com/s/GFKnh1H3GBNLUTBjMlmmKA) using the Open-Transfer Automatic Translation Workflow. 
