@@ -39,16 +39,16 @@ Supervisor: Dr. Yan-Mei Li
 B. A. in Management, GPA: 82.37/100 (Chinese version), 2.33/1 (German version)
 
 # 💻 Academic Work Experience
-**2024.05 - 2025.09** Research Assistant | part-time  
-The Department of Psychological and Cognitive Sciences, Tsinghua University (Beijing, China)  
-Advisor: Prof. Kaiping Peng & Dr. Wei Yan (Postdoctoral scholar, Stanford University)
+**2024.05 - 2025.09**, Research Assistant | part-time  
+- The Department of Psychological and Cognitive Sciences, Tsinghua University
+- Advisor: Prof. Kaiping Peng & Dr. Wei Yan (Postdoctoral scholar, Stanford University)  
 
-**2023.07 - 2024.05** Research Assistant | part-time  
-Department of Psychology, Renmin University of China, Beijing, China  
-Advisor: Dr. Xiaomeng Hu 
+**2023.07 - 2024.05**, Research Assistant | part-time  
+- Department of Psychology, Renmin University of China
+- Advisor: Dr. Xiaomeng Hu  
 
 # Service
-**Reviewer**  
+**Co-reviewer**  
 **2025.07 - 2026.01**, The belief in a decline in cooperation in the USA and China  
 
 **Academic community**  
@@ -73,10 +73,10 @@ Advisor: Dr. Xiaomeng Hu
 - Zhao, S.#, **Liu, R.#**, & Hu, X. (2024). Identification with all humanity promotes prosocial psychological processes and behavioral patterns and its underlying mechanisms. _Advances in Psychological Science_, _32_(10), 1697-1708. https://doi.org/10.3724/SP.J.1042.2024.01697 (#co-first author). [in Chinese]
 
 # 💬 Conference Talks
-**August 29, 2024**. Multiple pathways to promote adolescents' pro-environmental behavior: A cross-lagged panel network analysis. 2024 Well-being Education and Sciences Conference, Beijing, China.
+**August 29, 2024**. _Multiple pathways to promote adolescents' pro-environmental behavior: A cross-lagged panel network analysis_. 2024 Well-being Education and Sciences Conference, Beijing, China.
 
 # 🎖 Honors and Awards
-- **2026**, PSL-BRIDGE (Building Research Initiatives for Doctoral Growth in Europe), Erasmus+ SMT grant
+- **2026**, PSL-BRIDGE (Building Research Initiatives for Doctoral Growth in Europe) program, Erasmus+ SMT grant, ENS-PSL
 - **2025-2029**, ENS Group - China Scholarship Council (CSC) Scholarship, ENS-CSC 
 - **2021,2022**, The Second Prize Scholarship, IPCAS
 - **2021**, Merit Student (awarded to top 15%), IPCAS
