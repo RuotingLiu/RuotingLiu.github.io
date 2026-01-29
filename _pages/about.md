@@ -29,11 +29,11 @@ My PhD project investigates the evolution of cooperation and cooperation prefere
 - PhD student in Cognitive Sciences
 - Supervisors: Prof. Nicolas Baumard & Dr. Valentin Thouzeau  
 
-**2020.09 - 2023.06**, **Institute of Psychology, Chinese Academy of Sciences (IPCAS)** | Beijing, China   
+**2020.09 - 2023.06**, **Institute of Psychology, Chinese Academy of Sciences (中国科学院心理研究所)** | Beijing, China   
 - M. S. in Applied Psychology, GPA: 3.78/4
 - Supervisor: Dr. Yan-Mei Li  
 
-**2016.09 - 2020.06**, **School of Event and Communication, Shanghai University of International Business and Economics** | Shanghai, China  
+**2016.09 - 2020.06**, **School of Event and Communication, Shanghai University of International Business and Economics (上海对外经贸大学)** | Shanghai, China  
 - B. A. in Management, GPA: 82.37/100 (Chinese version), 2.33/1 (German version)
 
 # 💻 Academic Work Experience
@@ -50,7 +50,7 @@ My PhD project investigates the evolution of cooperation and cooperation prefere
 
 # 🗂️ Publications 
 - **Liu, R.#**, Zheng, X.#, Wang, Z., Zhou, M., Weng, J., Li, Y., & Chen, X. (2023). COVID-19 symptoms and compliance: The mediating role of fundamental social motives, _Frontiers in Psychology_, Vol.14-2023. https://doi.org/10.3389/fpsyg.2023.1093875 (#co-first author)
-- Zhao, S.#, **Liu, R.#**, & Hu, X. (2024). Identification with all humanity promotes prosocial psychological processes and behavioral patterns and its underlying mechanisms. _Advances in Psychological Science_, _32_(10), 1697-1708. https://doi.org/10.3724/SP.J.1042.2024.01697 (#co-first author). [in Chinese]
+- Zhao, S.#, **Liu, R.#**, & Hu, X. (2024). Identification with all humanity promotes prosocial psychological processes and behavioral patterns and its underlying mechanisms. _Advances in Psychological Science_, _32_(10), 1697-1708. https://doi.org/10.3724/SP.J.1042.2024.01697. [赵偲琪#, **刘若婷#**, & 胡晓檬. (2024). 全人类认同提升亲社会心理和行为及其解释机制. _心理科学进展_, _32_(10), 1697-1708. https://doi.org/10.3724/SP.J.1042.2024.01697] (#co-first author)  
 
 # 💬 Conference Talks
 - **August 29, 2024**. _Multiple pathways to promote adolescents' pro-environmental behavior: A cross-lagged panel network analysis_. 2024 Well-being Education and Sciences Conference, Beijing, China.
