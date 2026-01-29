@@ -67,7 +67,7 @@ Please feel free to [reach out](ruoting.liu@ens.psl.eu) if you have any question
 **2023.10 - Present**, Chinese Open Science Network | Online | Member of the Open-Transfer  
 - Refined the prompt to build an automated translation tool based on ChatGPT.
 - Translated and proofread [two academic articles](https://mp.weixin.qq.com/s/GFKnh1H3GBNLUTBjMlmmKA) using the Open-Transfer Automatic Translation Workflow. 
-- Translated a book: _A Student’s Guide to Open Science: Using the replication crisis to reform psychology_ (Pennington, C. (2023). _A Student’s Guide to Open Science: Using the replication crisis to reform psychology_. Open University Press. into Chinese.
+- Translated a book: _A Student’s Guide to Open Science: Using the replication crisis to reform psychology_ (Pennington, C. (2023). _A Student’s Guide to Open Science: Using the replication crisis to reform psychology_. Open University Press.) into Chinese.
 - Translated and reviewed the Chinese localization of open science terminology for FORRT.  
 
 **2020.09 - 2021.06**, Mental Health Education Center, UCAS | Beijing, China | Student cadre  
