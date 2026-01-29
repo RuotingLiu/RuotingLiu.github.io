@@ -59,7 +59,9 @@ B. A. in Management, GPA: 82.37/100 (Chinese version), 2.33/1 (German version)
 # 💬 Conference Talks
 **August 29, 2024**. _Multiple pathways to promote adolescents' pro-environmental behavior: A cross-lagged panel network analysis_. 2024 Well-being Education and Sciences Conference, Beijing, China.
 
-# 🧩 Academic community service 
+# 🧩 Academic Community Service 
+**2025.07 - 2026.01**, co-reviewr for: Communication Psychology  
+
 **2023.10 - Present**, Chinese Open Science Network | Online | Member of the Open-Transfer  
 - Refined the prompt to build an automated translation tool based on ChatGPT.
 - Translated and proofread two academic articles using the Open-Transfer Automatic Translation Workflow. https://mp.weixin.qq.com/s/tLkJDmb6Oh_m8DJySr1Gdg; https://mp.weixin.qq.com/s/GFKnh1H3GBNLUTBjMlmmKA
@@ -69,10 +71,7 @@ B. A. in Management, GPA: 82.37/100 (Chinese version), 2.33/1 (German version)
 **2020.09 - 2021.06**, Mental Health Education Center, UCAS | Beijing, China | Student cadre  
 - Designed the 2021 UCAS Academic and Physical and Mental Status Survey of Current Students.
 - Compiled and designed the outline of the academic interview, focusing on recent positive and negative experiences and emotional regulations.
-- Summarized the content of interviews and wrote the corresponding report.
-
-# 📑 Co-reviewer  
-- **2025.07 - 2026.01**, The belief in a decline in cooperation in the USA and China  
+- Summarized the content of interviews and wrote the corresponding report.  
 
 # 🎖 Honors and Awards
 - **2026**, PSL-BRIDGE (Building Research Initiatives for Doctoral Growth in Europe) program, Erasmus+ SMT grant, ENS-PSL
