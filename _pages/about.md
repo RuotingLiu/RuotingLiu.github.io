@@ -37,12 +37,10 @@ My PhD project investigates the evolution of cooperation and cooperation prefere
 - B. A. in Management, GPA: 82.37/100 (Chinese version), 2.33/1 (German version)
 
 # 💻 Academic Work Experience
-**2024.05 - 2025.09**, Research Assistant | part-time  
-- The Department of Psychological and Cognitive Sciences, Tsinghua University
+**2024.05 - 2025.09**, The Department of Psychological and Cognitive Sciences, Tsinghua University | Research Assistant | part-time  
 - Advisor: Prof. Kaiping Peng & Dr. Wei Yan (Postdoctoral scholar, Stanford University)  
 
-**2023.07 - 2024.05**, Research Assistant | part-time  
-- Department of Psychology, Renmin University of China
+**2023.07 - 2024.05**, Department of Psychology, Renmin University of China | Research Assistant | part-time  
 - Advisor: Dr. Xiaomeng Hu  
 
 # 📝 Working Papers
