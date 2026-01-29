@@ -47,16 +47,6 @@ B. A. in Management, GPA: 82.37/100 (Chinese version), 2.33/1 (German version), 
 - **Liu, R.#**, Zheng, X.#, Wang, Z., Zhou, M., Weng, J., Li, Y., & Chen, X. (2023). COVID-19 symptoms and compliance: The mediating role of fundamental social motives, _Frontiers in Psychology_, Vol.14-2023. https://doi.org/10.3389/fpsyg.2023.1093875 (#co-first author)
 - Zhao, S.#, **Liu, R.#**, & Hu, X. (2024). Identification with all humanity promotes prosocial psychological processes and behavioral patterns and its underlying mechanisms. _Advances in Psychological Science_, _32_(10), 1697-1708. https://doi.org/10.3724/SP.J.1042.2024.01697 (#co-first author). [in Chinese]
 
-# 🎖 Honors and Awards
-- **2025-2029**, ENS Group - China Scholarship Council (CSC) Scholarship, ENS-CSC 
-- **2021,2022**, The Second Prize Scholarship, IPCAS
-- **2021**, Merit Student (awarded to top 15%), IPCAS
-- **2020**, The Third Prize Scholarship, SUIBE
-- **2019**, Honorable Mention at the 2019 Mathematical Contest In Modeling (awarded to top 16%), COMAP
-- **2019**, The First Prize Scholarship (awarded to top 3%), SUIBE
-- **2017**, The Second Prize Scholarship (awarded to top 12%), SUIBE
-- **2017**, Merit Student (awarded to top 5%), SUIBE 
-
 # 💬 Conference Talks
 **August 29, 2024**. Multiple pathways to promote adolescents' pro-environmental behavior: A cross-lagged panel network analysis. 2024 Well-being Education and Sciences Conference, Beijing, China.
 
@@ -68,3 +58,13 @@ Advisor: Prof. Kaiping Peng & Dr. Wei Yan (Postdoctoral scholar, Stanford Univer
 **2023.07 - 2024.05** Research Assistant | part-time  
 Department of Psychology, Renmin University of China, Beijing, China  
 Advisor: Dr. Xiaomeng Hu
+
+# 🎖 Honors and Awards
+- **2025-2029**, ENS Group - China Scholarship Council (CSC) Scholarship, ENS-CSC 
+- **2021,2022**, The Second Prize Scholarship, IPCAS
+- **2021**, Merit Student (awarded to top 15%), IPCAS
+- **2020**, The Third Prize Scholarship, SUIBE
+- **2019**, Honorable Mention at the 2019 Mathematical Contest In Modeling (awarded to top 16%), COMAP
+- **2019**, The First Prize Scholarship (awarded to top 3%), SUIBE
+- **2017**, The Second Prize Scholarship (awarded to top 12%), SUIBE
+- **2017**, Merit Student (awarded to top 5%), SUIBE 
