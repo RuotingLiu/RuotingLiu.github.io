@@ -25,15 +25,15 @@ My PhD project investigates the evolution of cooperation and cooperation prefere
 - **2026.04 - 2026.06**: &nbsp;🎉🎉 XXX
 
 # 📖 Educations
-**2025.09 - Present**, **Département d’études cognitives, École normale supérieure-PSL (ENS-PSL)** (Paris, France)  
+**2025.09 - Present**, **Département d’études cognitives, École normale supérieure-PSL (ENS-PSL)** | Paris, France  
 - PhD student in Cognitive Sciences
 - Supervisors: Prof. Nicolas Baumard & Dr. Valentin Thouzeau  
 
-**2020.09 - 2023.06**, **Institute of Psychology, Chinese Academy of Sciences (IPCAS)** (Beijing, China)  
+**2020.09 - 2023.06**, **Institute of Psychology, Chinese Academy of Sciences (IPCAS)** | Beijing, China   
 - M. S. in Applied Psychology, GPA: 3.78/4
 - Supervisor: Dr. Yan-Mei Li  
 
-**2016.09 - 2020.06**, **School of Event and Communication, Shanghai University of International Business and Economics** (Shanghai, China)  
+**2016.09 - 2020.06**, **School of Event and Communication, Shanghai University of International Business and Economics** | Shanghai, China  
 - B. A. in Management, GPA: 82.37/100 (Chinese version), 2.33/1 (German version)
 
 # 💻 Academic Work Experience
