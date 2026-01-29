@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+Hello! Welcome to my homepage!  
+
 I am a PhD student in the [Evolution and Social Cognition](https://esc.dec.ens.fr/en/evolution-and-social-cognition-members-10877) team at the [Institut Jean-Nicod](http://www.institutnicod.org/) of the École normale supérieure – PSL.  
 
-I am interested in human cooperation, especially in two distinct preferences: parochial and universal cooperation. Combining surveys, behavioral experiments, and analyses of diverse cultural artifacts (e.g., texts, paintings), I investigate how cooperation and cooperation preferences change cross cultures, geographical regions, and historical periods. 
+My research focuses on human cooperation, with particular attention to two distinct preferences: parochial and universal cooperation. Combining multiple methods, including surveys, behavioral experiments, and textual analyses, I investigate how cooperation and cooperation preferences vary cross cultures, geographical regions, and historical periods. 
 
 My PhD project investigates the evolution of cooperation and cooperation preferences in Chinese history using evidence from diverse cultural artifacts. Furthermore, my research explores which ecological affordances are associated with these trends, contributing to our understanding of when, where, and why people’s cooperation and preferences vary across historical contexts.
 
