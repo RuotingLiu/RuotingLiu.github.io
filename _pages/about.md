@@ -21,8 +21,11 @@ I am interested in human cooperation, especially in two distinct preferences: pa
 
 My PhD project investigates the evolution of cooperation and cooperation preferences in Chinese history using evidence from diverse cultural artifacts. Furthermore, my research explores which ecological affordances are associated with these trends, contributing to our understanding of when, where, and why people’s cooperation and preferences vary across historical contexts.
 
+# 🔥 News
+- **2026.04 - 2026.06**: &nbsp;🎉🎉 XXX
+
 # 📖 Educations
-**2025.09 - 2026.01 (now)**, **Département d’études cognitives, École normale supérieure-PSL (ENS-PSL)** (Paris, France)  
+**2025.09 - Present**, **Département d’études cognitives, École normale supérieure-PSL (ENS-PSL)** (Paris, France)  
 PhD student in Cognitive Sciences  
 Supervisors: Prof. Nicolas Baumard & Dr. Valentin Thouzeau
 
@@ -35,8 +38,30 @@ Supervisor: Dr. Yan-Mei Li
 **2016.09 - 2020.06**, **School of Event and Communication, Shanghai University of International Business and Economics** (Shanghai, China)  
 B. A. in Management, GPA: 82.37/100 (Chinese version), 2.33/1 (German version)
 
-# 🔥 News
-- **2022.02**: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  
+# 💻 Academic Work Experience
+**2024.05 - 2025.09** Research Assistant | part-time  
+The Department of Psychological and Cognitive Sciences, Tsinghua University (Beijing, China)  
+Advisor: Prof. Kaiping Peng & Dr. Wei Yan (Postdoctoral scholar, Stanford University)
+
+**2023.07 - 2024.05** Research Assistant | part-time  
+Department of Psychology, Renmin University of China, Beijing, China  
+Advisor: Dr. Xiaomeng Hu 
+
+# Service
+**Reviewer**
+**2025.07 - 2026.01**, The belief in a decline in cooperation in the USA and China  
+
+**Academic community**
+**2023.10 - Present**, Chinese Open Science Network | Online | Member of the Open-Transfer  
+- Refined the prompt to build an automated translation tool based on ChatGPT.
+- Translated and proofread two academic articles using the Open-Transfer Automatic Translation Workflow. https://mp.weixin.qq.com/s/tLkJDmb6Oh_m8DJySr1Gdg; https://mp.weixin.qq.com/s/GFKnh1H3GBNLUTBjMlmmKA
+- Translated A Student’s guide to open science - Using the replication crisis to reform psychology into Chinese.
+- Translated and reviewed the Chinese localization of open science terminology for FORRT.  
+
+**2020.09 - 2021.06**, Mental Health Education Center, UCAS | Beijing, China | Student cadre  
+- Designed the 2021 UCAS Academic and Physical and Mental Status Survey of Current Students.
+- Compiled and designed the outline of the academic interview, focusing on recent positive and negative experiences and emotional regulations.
+- Summarized the content of interviews and wrote the corresponding report.
 
 # 📝 Working Papers
 - Zhao, S., Sun, Y., **Liu, R.**, Li, X., & Hu, X. (2024). Identification with all humanity reduces the ratio of moral differential circle. Preprint: ChinaXiv. https://chinaxiv.org/abs/202408.00133
@@ -50,16 +75,8 @@ B. A. in Management, GPA: 82.37/100 (Chinese version), 2.33/1 (German version)
 # 💬 Conference Talks
 **August 29, 2024**. Multiple pathways to promote adolescents' pro-environmental behavior: A cross-lagged panel network analysis. 2024 Well-being Education and Sciences Conference, Beijing, China.
 
-# 💻 Academic Work Experience
-**2024.05 - 2025.09** Research Assistant | part-time  
-The Department of Psychological and Cognitive Sciences, Tsinghua University (Beijing, China)  
-Advisor: Prof. Kaiping Peng & Dr. Wei Yan (Postdoctoral scholar, Stanford University)
-
-**2023.07 - 2024.05** Research Assistant | part-time  
-Department of Psychology, Renmin University of China, Beijing, China  
-Advisor: Dr. Xiaomeng Hu
-
 # 🎖 Honors and Awards
+- **2026**, PSL-BRIDGE (Building Research Initiatives for Doctoral Growth in Europe), Erasmus+ SMT grant
 - **2025-2029**, ENS Group - China Scholarship Council (CSC) Scholarship, ENS-CSC 
 - **2021,2022**, The Second Prize Scholarship, IPCAS
 - **2021**, Merit Student (awarded to top 15%), IPCAS
