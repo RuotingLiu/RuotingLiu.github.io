@@ -61,19 +61,17 @@ Please feel free to reach out if you have any questions or collaboration ideas.
 # 💬 Talks
 - **August 29, 2024**. _Multiple pathways to promote adolescents' pro-environmental behavior: A cross-lagged panel network analysis_. 2024 Well-being Education and Sciences Conference, Beijing, China.
 
-# 🧩 Community Service 
-**2025.07 - 2026.01**, co-reviewr for: Communication Psychology  
+# 🧩 Service   
+**Journal Reviewer (Articles Reviewed)**  
+- Current Psychology (1)
+- Communication Psychology (1), co-reviewer
 
-**2023.10 - Present**, Chinese Open Science Network | Online | Member of the Open-Transfer  
+**Academic Committee Membership** 
+**Open-Transfer, Chinese Open Science Network**   
 - Refined the prompt to build an automated translation tool based on ChatGPT.
 - Translated and proofread [two academic articles](https://mp.weixin.qq.com/s/GFKnh1H3GBNLUTBjMlmmKA) using the Open-Transfer Automatic Translation Workflow. 
 - Translated a book: _A Student’s Guide to Open Science: Using the replication crisis to reform psychology_ (Pennington, C. (2023). _A Student’s Guide to Open Science: Using the replication crisis to reform psychology_. Open University Press.) into Chinese.
 - Translated and reviewed the Chinese localization of open science terminology for FORRT.  
-
-**2020.09 - 2021.06**, Mental Health Education Center, UCAS | Beijing, China | Student cadre  
-- Designed the 2021 UCAS Academic and Physical and Mental Status Survey of Current Students.
-- Compiled and designed the outline of the academic interview, focusing on recent positive and negative experiences and emotional regulations.
-- Summarized the content of interviews and wrote the corresponding report.  
 
 # 🎖 Honors and Awards
 - **2026**, PSL-BRIDGE (Building Research Initiatives for Doctoral Growth in Europe) program, Erasmus+ SMT grant, ENS-PSL
