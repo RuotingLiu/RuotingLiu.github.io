@@ -55,7 +55,7 @@ My PhD project investigates the evolution of cooperation and cooperation prefere
 # 💬 Conference Talks
 - **August 29, 2024**. _Multiple pathways to promote adolescents' pro-environmental behavior: A cross-lagged panel network analysis_. 2024 Well-being Education and Sciences Conference, Beijing, China.
 
-# 🧩 Academic Community Service 
+# 🧩 Community Service 
 **2025.07 - 2026.01**, co-reviewr for: Communication Psychology  
 
 **2023.10 - Present**, Chinese Open Science Network | Online | Member of the Open-Transfer  
