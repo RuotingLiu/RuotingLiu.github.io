@@ -70,7 +70,7 @@ Please feel free to reach out if you have any questions or collaboration ideas.
 _**2023.11 - present, Open-Transfer, Chinese Open Science Network**_   
 - Refined the prompt to build an automated translation tool based on ChatGPT.
 - Translated and proofread [two academic articles](https://mp.weixin.qq.com/s/GFKnh1H3GBNLUTBjMlmmKA) using the Open-Transfer Automatic Translation Workflow. 
-- Translated a book: _A Student’s Guide to Open Science: Using the replication crisis to reform psychology_ (Pennington, C. (2023). _A Student’s Guide to Open Science: Using the replication crisis to reform psychology_. Open University Press.) into Chinese.
+- Translated a book: [_A Student’s Guide to Open Science: Using the replication crisis to reform psychology_](https://www.mheducation.co.uk/a-student-s-guide-to-open-science-using-the-replication-crisis-to-reform-psychology-9780335251162-emea-group) (Pennington, C. (2023). _A Student’s Guide to Open Science: Using the replication crisis to reform psychology_. Open University Press.) into Chinese.
 - Translated and reviewed the Chinese localization of open science terminology for FORRT.  
 
 # 🎖 Honors and Awards
