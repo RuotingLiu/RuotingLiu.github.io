@@ -67,7 +67,7 @@ Please feel free to reach out if you have any questions or collaboration ideas.
 - Communications Psychology (1), co-reviewer
 
 **Academic Committee Membership**  
-**Open-Transfer, Chinese Open Science Network**   
+_**Open-Transfer, Chinese Open Science Network**_   
 - Refined the prompt to build an automated translation tool based on ChatGPT.
 - Translated and proofread [two academic articles](https://mp.weixin.qq.com/s/GFKnh1H3GBNLUTBjMlmmKA) using the Open-Transfer Automatic Translation Workflow. 
 - Translated a book: _A Student’s Guide to Open Science: Using the replication crisis to reform psychology_ (Pennington, C. (2023). _A Student’s Guide to Open Science: Using the replication crisis to reform psychology_. Open University Press.) into Chinese.
