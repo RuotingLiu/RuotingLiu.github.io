@@ -79,9 +79,9 @@ _**2023.11 - present, Open-Transfer, Chinese Open Science Network**_
 - **2026**, PSL-BRIDGE (Building Research Initiatives for Doctoral Growth in Europe) program, Erasmus+ SMT grant, ENS-PSL
 - **2025-2029**, ENS Group - China Scholarship Council (CSC) Scholarship, ENS-CSC 
 - **2021,2022**, The Second Prize Scholarship, IPCAS
-- **2021**, Merit Student (awarded to top 15%), IPCAS
+- **2021**, Merit Student, IPCAS
 - **2020**, The Third Prize Scholarship, SUIBE
-- **2019**, Honorable Mention at the 2019 Mathematical Contest In Modeling (awarded to top 16%), COMAP
-- **2019**, The First Prize Scholarship (awarded to top 3%), SUIBE
-- **2017**, The Second Prize Scholarship (awarded to top 12%), SUIBE
-- **2017**, Merit Student (awarded to top 5%), SUIBE 
+- **2019**, Honorable Mention at the 2019 Mathematical Contest In Modeling, COMAP
+- **2019**, The First Prize Scholarship, SUIBE
+- **2017**, The Second Prize Scholarship, SUIBE
+- **2017**, Merit Student, SUIBE 
