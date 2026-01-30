@@ -31,23 +31,23 @@ Please feel free to reach out if you have any questions or collaboration ideas.
 - **2026.04 - 2026.06**: &nbsp;🎉🎉 XXX
 
 # 📖 Education
-**2025.09 - Present**, **PhD student in Cognitive Sciences** | Paris, France  
+**2025.09 - Present** | **PhD student in Cognitive Sciences** | Paris, France  
 - Département d’études cognitives, École normale supérieure-PSL (ENS-PSL)   
 - Supervisors: [Prof. Nicolas Baumard](https://nicolasbaumards.org/) & [Dr. Valentin Thouzeau](https://scholar.google.com/citations?user=4eLfjyoAAAAJ&hl=en)  
 
-**2020.09 - 2023.06**, **M. S. in Applied Psychology** | Beijing, China  
+**2020.09 - 2023.06** | **M. S. in Applied Psychology** | Beijing, China  
 - Institute of Psychology, Chinese Academy of Sciences (中国科学院心理研究所)    
 - Supervisor: [Dr. Yan-Mei Li](https://psych.cas.cn/sourcedb/cn/expert/201003/t20100304_6369816.html)  
 
-**2016.09 - 2020.06**, **B. A. in Management** | Shanghai, China  
+**2016.09 - 2020.06** | **B. A. in Management** | Shanghai, China  
 - School of Event and Communication, Shanghai University of International Business and Economics (上海对外经贸大学)    
 
 # 💻 Work Experience
-**2024.05 - 2025.09**, Research Assistant | part-time  
+**2024.05 - 2025.09** | Research Assistant | part-time  
 - The Department of Psychological and Cognitive Sciences, Tsinghua University  
 - Advisor: Prof. Kaiping Peng & Dr. Wei Yan  
 
-**2023.07 - 2024.05**, Research Assistant | part-time  
+**2023.07 - 2024.05** | Research Assistant | part-time  
 - Department of Psychology, Renmin University of China  
 - Advisor: Dr. Xiaomeng Hu  
 
