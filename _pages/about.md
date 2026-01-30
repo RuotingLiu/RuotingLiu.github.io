@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Ruoting LIU! 👋  
+Hi, I'm Ruoting LIU (刘若婷, liú ruò tíng)! 👋  
 
 I am a PhD student in the [Evolution and Social Cognition](https://esc.dec.ens.fr/en/evolution-and-social-cognition-members-10877) team at the [Institut Jean-Nicod](http://www.institutnicod.org/) of the École normale supérieure – PSL.  
 
