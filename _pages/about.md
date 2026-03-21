@@ -54,7 +54,7 @@ Please feel free to reach out if you have any questions or collaboration ideas.
 # 📝 Working Papers
 - Zhao, S., Sun, Y., **Liu, R.**, Li, X., & Hu, X. (2024). Identification with all humanity reduces the ratio of moral differential circle. Preprint: ChinaXiv. [https://chinaxiv.org/abs/202408.00133](https://chinaxiv.org/abs/202408.00133)
 - **Liu, R.**, Zhu, T., Chen, X., & Li, Y. (under review). How regional socio-economic development weakens individual compliance with epidemic prevention norms? An evolutionary psychological perspective.
-- Yan W., **Liu, R.**, Zhang, Y., Zheng, Z., Liu, T., & Hu, X. (in prep.). From connection to action: Nature connectedness shapes climate change mitigation behaviors among Chinese adolescents. 
+- Yan W., **Liu, R.**, Zhang, Y., Zheng, Z., Liu, T., & Hu, X. (submitted). From connection to action: Nature connectedness shapes climate change mitigation behaviors among Chinese adolescents. 
 
 # 🗂️ Publications 
 - Zhao, S.#, **Liu, R.#**, & Hu, X. (2024). Identification with all humanity promotes prosocial psychological processes and behavioral patterns and its underlying mechanisms. _Advances in Psychological Science_, _32_(10), 1697-1708. [https://doi.org/10.3724/SP.J.1042.2024.01697](https://doi.org/10.3724/SP.J.1042.2024.01697). [赵偲琪#, **刘若婷#**, & 胡晓檬. (2024). 全人类认同提升亲社会心理和行为及其解释机制. _心理科学进展_, _32_(10), 1697-1708. [https://doi.org/10.3724/SP.J.1042.2024.01697](https://doi.org/10.3724/SP.J.1042.2024.01697)] (#co-first author)  
