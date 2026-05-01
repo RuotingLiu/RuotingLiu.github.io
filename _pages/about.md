@@ -57,7 +57,7 @@ Please feel free to reach out if you have any questions or collaboration ideas.
 - Yan W., **Liu, R.**, Zhang, Y., Zheng, Z., Liu, T., & Hu, X. (submitted). From connection to action: Nature connectedness shapes climate change mitigation behaviors among Chinese adolescents. 
 
 # 🗂️ Publications 
-- Zhao, S.#, **Liu, R.#**, & Hu, X. (2024). Identification with all humanity promotes prosocial psychological processes and behavioral patterns and its underlying mechanisms. _Advances in Psychological Science_, _32_(10), 1697-1708. [https://doi.org/10.3724/SP.J.1042.2024.01697](https://doi.org/10.3724/SP.J.1042.2024.01697). [赵偲琪#, **刘若婷#**, & 胡晓檬. (2024). 全人类认同提升亲社会心理和行为及其解释机制. _心理科学进展_, _32_(10), 1697-1708. [https://doi.org/10.3724/SP.J.1042.2024.01697](https://doi.org/10.3724/SP.J.1042.2024.01697)] (#co-first author)  
+- Zhao, S.#, **Liu, R.#**, & Hu, X. (2024). Identification with all humanity promotes prosocial psychological processes and behavioral patterns and its underlying mechanisms. _Advances in Psychological Science_, _32_(10), 1697-1708. [https://doi.org/10.3724/SP.J.1042.2024.01697](https://doi.org/10.3724/SP.J.1042.2024.01697). [赵偲琪#, **刘若婷#**, & 胡晓檬. (2024). 全人类认同提升亲社会心理和行为及其解释机制. _心理科学进展_, _32_(10), 1697-1708.] (#co-first author)  
 - **Liu, R.#**, Zheng, X.#, Wang, Z., Zhou, M., Weng, J., Li, Y., & Chen, X. (2023). COVID-19 symptoms and compliance: The mediating role of fundamental social motives, _Frontiers in Psychology_, Vol.14-2023. [https://doi.org/10.3389/fpsyg.2023.1093875](https://doi.org/10.3389/fpsyg.2023.1093875) (#co-first author)  
 
 # 💬 Talks
