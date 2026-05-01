@@ -28,7 +28,7 @@ My PhD project investigates the evolution of cooperation and cooperation prefere
 Please feel free to reach out if you have any questions or collaboration ideas. 
 
 # 🔥 News
-- **2026.04 - 2026.06**: &nbsp;🎉🎉 XXX
+- **2026.04 - 2026.06**: Visiting student a the Leiden University &nbsp;🎉🎉 
 
 # 📖 Education
 **2025.09 - Present** | **PhD student in Cognitive Sciences** | Paris, France  
